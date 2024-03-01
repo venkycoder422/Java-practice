@@ -1,0 +1,1 @@
+Buffered streams add a layer of buffering, reducing the number of direct writes to the underlying stream.
